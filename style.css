@@ -1,0 +1,49 @@
+*{
+
+    margin: 0;
+    font-size: 25px;
+
+}
+
+body{font-size: 20px;background-attachment: fixed;}
+
+header {
+    margin: 0;
+    padding: 15;
+    position: static;
+    color: #fff;
+    height: 50px;
+    font-size: 40px;
+    background: lightgray;
+}
+
+form{
+    margin: 10px;
+}
+
+input {
+    height: 25px;
+}
+
+h2{
+    padding: 7px;
+    font-size: 40px;
+}
+
+img{
+    width: 100vw;
+}
+
+footer{
+    color: dodgerblue;
+    display: flex;
+    background: lightgray;
+    align-items: center;
+    font-family: roboto;
+    justify-content: center;
+    height: 200px;
+}
+
+textarea {
+    height: 55px;
+}
